@@ -1,0 +1,8 @@
+== Starts the server
+
+node server.js
+
+== Starts the clients
+node client.js
+
+See the Heart Beat :)
